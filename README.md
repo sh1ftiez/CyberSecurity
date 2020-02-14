@@ -7,6 +7,6 @@ TryHarder!
 
 ### Completed Machines
 
--Nest          (Writeup Avaliable)
--OpenAdmin
--Obscurity     (Writeup Avaliable)
+ -Nest          (Writeup Avaliable)
+ -OpenAdmin
+ -Obscurity     (Writeup Avaliable)
