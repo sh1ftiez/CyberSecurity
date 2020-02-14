@@ -5,8 +5,10 @@ The password in order to read each writeup is the root flag of each machine. No 
 
 TryHarder!
 
-## Completed Machines
+### Completed Machines
 
 Nest          (Writeup Avaliable)
+
 OpenAdmin
+
 Obscurity     (Writeup Avaliable)
