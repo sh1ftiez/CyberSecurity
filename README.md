@@ -1,6 +1,6 @@
 # George T Documentations and Tools
 
-## Dcumentation
+## Documentation
 
 ### HackTheBox.eu Writeups
 
